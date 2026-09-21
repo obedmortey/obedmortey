@@ -34,9 +34,9 @@ inappropriate prescribing and frailty.
 
 Building an end-to-end observational study of polypharmacy, potentially
 inappropriate medication use (Beers 2023, STOPP/START) and frailty in older
-Canadian adults — a reproducible R extraction pipeline over ~7,800 CLSA
-variables, a machine-readable variable dictionary, and a DAG-informed analysis
-with propensity score weighting and multiple imputation.
+adults on a publicly available dataset — a reproducible R extraction pipeline
+over roughly 7,800 variables, a machine-readable variable dictionary, and a
+DAG-informed analysis with propensity score weighting and multiple imputation.
 
 ### Methods and tools
 
